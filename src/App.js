@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import LogIn from './log_in/login';
+
 function App() {
   return (
     <div className="App">
@@ -22,4 +24,5 @@ function App() {
   );
 }
 
-export default App;
+// export default App;
+export default LogIn;
